@@ -40,6 +40,10 @@ code only works on any 8051-microcontroller system.
 To run the simulation, we set the clock frequency at 11.0592 MHZ for 8051. This
 has allowed us to run the simulation without getting any errors.
 
+![Screenshot (72)](https://user-images.githubusercontent.com/74583384/205563442-612b903c-d86e-4d0d-bc0a-3a4f16dd2294.png)
+
+The code for above process is uploaded in the repository.
+
 Done By- 
 
 Abhinav Putrevu
